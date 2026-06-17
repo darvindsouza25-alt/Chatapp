@@ -33,6 +33,7 @@ public class talkapp {
     }
 }
 
+
 // ─── Database ────────────────────────────────────────────────────────────────
 class DB {
     private static Connection conn;
