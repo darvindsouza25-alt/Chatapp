@@ -53,3 +53,4 @@ ChatApp.java          # Everything in one file
 Passwords are stored in plain text — this is a demo project, not production-ready
 The app polls the database every 2 seconds to check for new messages
 Multiple users can run the app simultaneously as long as they connect to the same MySQL instance
+
